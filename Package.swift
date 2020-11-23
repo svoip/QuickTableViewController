@@ -40,6 +40,5 @@ let package = Package(
         .target(
             name: "QuickTableViewController",
             path: "Source"),
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
